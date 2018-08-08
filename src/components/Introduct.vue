@@ -35,6 +35,7 @@
 			<p>在16年（也就是在我大二上学期的时候）一次偶然的机会加入了任课老师的组织的软件开发小组，在老师的“蛊惑”下跳入了Web开发的坑。并因此对Web开发产生了浓厚的兴趣（因为当时学了C#，看着丑陋的控件拖来拖去太枯燥，入了Web开发坑仿佛发现了新大陆），在不断地学习，不断地卧槽，原来 HTML、CSS、JS 还可以这么玩，渐渐加深了自己对Web开发的热爱。
 			</p>
 			<p>对新技术抱有激情，渴望在技术上有所建树，希望自己做的东西能被大家喜欢,励志两年成为一名合格的全栈开发工程师。</p>
+            <p>平时没什么别的爱好，看看体育比赛，NBA比赛居多。还会经常打篮球。</p>
 			<p>另外，还有
 				<a href="https://github.com/caozongpeng" target="_black">github</a>和
 				<a href="http://kyrieandrewirving.cn:8080/" target="_black">个人博客</a>
@@ -51,14 +52,13 @@ $coffee: #b4531e;
     overflow: hidden;
 
     margin: 20px 0;
+
     img {
         border-radius: 50%;
     }
 }
-
 .info {
     font-size: 20px;
-
     color: $white;
 
     -webkit-user-select: text;
@@ -66,7 +66,6 @@ $coffee: #b4531e;
     -ms-user-select: text;
     user-select: text;
 }
-
 .row {
     margin: 10px 0;
 }
