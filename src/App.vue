@@ -28,7 +28,7 @@ export default {
 <style  lang="scss" scoped>
 @import url("./assets/css/bootstrap.min.css");
 @import url("./assets/css/common.css");
-@import url("http://cdn.webfont.youziku.com/webfonts/nomal/91608/46931/58148752f629d8107cfe8864.css");
+@import url("https://cdn.webfont.youziku.com/webfonts/nomal/91608/46931/58148752f629d8107cfe8864.css");
 
 .menu {
     overflow: hidden;
