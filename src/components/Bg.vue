@@ -12,7 +12,7 @@
         min-width: 100%;
         height: auto;
         min-height: 100%;
-        background: url(/static/kyrie1.jpg) no-repeat center / cover;
+        background: url(/static/bg.jpg) no-repeat center / cover;
     }
 </style>
 
