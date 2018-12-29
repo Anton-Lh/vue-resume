@@ -15,3 +15,5 @@ npm run dev
 npm run build
 
 ```
+## 预览效果
+![resume](http://caozongpeng.oss-cn-shenzhen.aliyuncs.com/image/resume.png)
