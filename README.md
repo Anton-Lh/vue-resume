@@ -1,9 +1,18 @@
-# 个人简历
+## 个人简历
+本项目是基于Vue、VueRouter、Bootstrap开发的一个简单的个人简历。
 
-> vue + vueRouter + bootstrap
+#### 开发环境
+* node
+* webpack
+* vue-cli
 
-## 运行打包
+#### 技术栈
+* vue 
+* vueRouter  
+* bootstrap
 
+#### 运行打包
+git clone git@github.com:caozongpeng/vue-resume.git
 ``` bash
 # 安装依赖
 npm install
@@ -16,4 +25,4 @@ npm run build
 
 ```
 ## 预览效果
-![resume](http://caozongpeng.oss-cn-shenzhen.aliyuncs.com/image/resume.png)
+![resume](https://github.com/caozongpeng/github-static/blob/master/resume/resume.png)
